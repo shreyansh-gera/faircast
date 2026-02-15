@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/shreyansh/Desktop/voting_system/pages/index.js"],"sourcesContent":["import React from 'react'\r\n\r\nconst index = () => {\r\n  return (\r\n    <div>index</div>\r\n  )\r\n}\r\n\r\nexport default index\r\n"],"names":[],"mappings":";;;;;AAAA;;;AAEA,MAAM,QAAQ;IACZ,qBACE,qKAAC;kBAAI;;;;;;AAET;uCAEe"}}]
+}
